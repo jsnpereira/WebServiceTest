@@ -3,7 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>WebServiceTest</groupId>
 	<artifactId>WebServiceTest</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>qa</version>
 	<packaging>war</packaging>
 
 	<dependencies>
