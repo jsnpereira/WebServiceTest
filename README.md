@@ -1,5 +1,5 @@
 # WebServiceTest
-This repository is create to test run against API service with Jersery Framework.
+This repository is developing in future the test against API service with Jersery Framework.
 
 ## the port
 the container are export the ports are:
